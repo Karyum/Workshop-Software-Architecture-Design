@@ -5,10 +5,6 @@
 - To start developing the critical ability to identify distinct elements of your app and their relations.
 - To apply this knowledge, and learn how you might begin architecting an app pre-build.
 
-### Group Introduction To Topic
-
-Presentation on The Importance of Software Architecture -- see [pages 3-7](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf) as a group.
-
 ### What Is Software Architecture Design?
 
 - ##### Architecture is a *general* term for the overall structure of a software system. Fundamentally, it's about managing complexity.
@@ -60,8 +56,6 @@ Conclusion is, Messy systems are costly and they cause frustrating delays.
 
 Clean and ordered systems mitigate complexity and make your life easier in the long run.  
 
->"The quality and longevity of a software system is determined by its architecture" -- Linda Northrop in ["The Importance of Software Architecture"](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf), Carnegie Mellon University.
-
 ## Types of Software Architecture
 
 There are many different approaches to architecting software, depending on the situation.
@@ -79,9 +73,6 @@ When you are architecting an app, try to keep these **key principles** in mind:
 - How can you make it **easy to test**?
 - How can you make it **easy to change**?
 - Can you **anticipate changes** that are likely to occur?
-
->"If you don't develop an architecture, you will get one anyway - and you might not like what you get!"
->-- Northrop, [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
 
 ## Exercise 2: Restructuring A File System
 
