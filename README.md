@@ -1,9 +1,5 @@
 # Introduction to Software Architecture Design
 
-### Getting Started
-
-Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Software-Architecture-Design.git`
-
 ### Learning Outcomes
 - To understand the general importance of software architecture design.
 - To start developing the critical ability to identify distinct elements of your app and their relations.
@@ -91,15 +87,11 @@ When you are architecting an app, try to keep these **key principles** in mind:
 
 Your file structure is an architectural structure in its own right. Again, it is an _attempt to manage complexity_.
 
+Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Software-Architecture-Design.git`
+
 Keeping the Key Principles above in mind, how would you reorganise the files of this repository? (They are intentionally empty files, by the way.)
 
-_**Tip**: if you haven't done so already, you can run `npm install file-icons` so that all your atom icons have icons displaying in the file tree, making them easier to distinguish_
-
 If you finish early, [here](https://msdn.microsoft.com/en-us/library/ee658124.aspx#KeyDesignPrinciples) are some more detailed Key Principles.
-
-## Exercise 3: Clean up your files
-
-Now's the perfect time to go back to your past projects on GitHub and neaten up the file structure.
 
 ##### Remember:
 
