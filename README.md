@@ -19,7 +19,7 @@ Presentation on The Importance of Software Architecture -- see [pages 3-7](http:
 
 It is like showing a route on a map. Both the route and the map are abstractions of a more complicated reality, allowing us to find our way and conceptualise the landscape.
 
-![maps manage complexity](/maps-manage-complexity.png)
+![maps manage complexity](/public/images/maps-manage-complexity.png)
 
 - ##### Software architecture shows how all the parts of an app might interact with each other.
 
