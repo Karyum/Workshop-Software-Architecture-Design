@@ -78,7 +78,7 @@ When you are architecting an app, try to keep these **key principles** in mind:
 
 Your file structure is an architectural structure in its own right. Again, it is an _attempt to manage complexity_.
 
-Clone this repo: `git clone https://github.com/foundersandcoders/Workshop-Software-Architecture-Design.git`
+Clone this repo: `git clone git@github.com:WebAhead/Workshop-Software-Architecture-Design.git`
 
 Keeping the Key Principles above in mind, how would you reorganise the files of this repository? (They are intentionally empty files, by the way.)
 
