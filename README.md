@@ -15,7 +15,7 @@ It is like showing a route on a map. Both the route and the map are abstractions
 
 - ##### Software architecture shows how all the parts of an app might interact with each other.
 
-- ##### Architectural concerns also affect our file structure and _how we write code_ in a macro way. We will cover architecture-friendly code in a later workshop.
+- ##### Architectural concerns also affect our file structure and _how we write code_ in a macro way.
 
 ![file structure](http://www.talesfrompipeline.com/theme/images/file_structure.jpg)
 
